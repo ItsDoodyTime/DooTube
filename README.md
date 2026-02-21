@@ -10,14 +10,16 @@ Free (Personal-Use) YouTube Video &amp; Audio downloader for offline use. Do not
 - I originally created it to download tutorials for school to watch while offline and without access to the internet.<br>
 - There are **NO Safeguards** in place so your IP and device information is right open and accessible by YouTube and Google!<br>
 
-⚠ Downloading YouTube videos can violate YouTube’s Terms of Service depending on how you use it. This is generally okay for personal backups, offline viewing of your own content, or content you have permission to download, or in my case only for personal-use.<br>
+⚠ Downloading YouTube videos violates YouTube’s Terms of Service. Please only use for personal backups, offline viewing of your own content, or content you have permission to download, or in my case only for personal-use.<br>
 ⚠ **Don’t redistribute stuff you don’t own - it's ILLEGAL!!** ⚠<br>
-⚠ **DO NOT USE THIS TOOL TO TRAIN GEN-AI MODELS!! >:(**
+⚠ **DO NOT USE THIS TOOL TO TRAIN GEN-AI MODELS!! - AI-Slop is lame! >:(**
 
 ---
 ## 💎 Features
 - Download Videos
 - Download Audio-Only
+- Minimalistic and Simple UI in ✨Dark Mode✨
+- Auto-Updater whenever [YT-DLP](https://github.com/yt-dlp/yt-dlp) updates
 - OPEN SOURCE & FREE FOREVER!
 
 ---
@@ -25,12 +27,12 @@ Free (Personal-Use) YouTube Video &amp; Audio downloader for offline use. Do not
 ## 📥 Installation
 1. Download.
 2. Extract.
-3. Run.
+3. Run `DooTube.exe`.
 
 ---
 
-## 🔒 Privacy & Usage
-Please read the **[Privacy & Usage Notice](https://github.com/ItsDoodyTime/DooTube/blob/main/PRIVACY.md)** before using this software.
+## 🚨 Disclaimer & Notice
+This software uses YT-DLP and FFmpeg binaries. I do not own any rights to the sections related to either software. Their licensing and policies apply to their respective parts in my code.
 
 ---
 
