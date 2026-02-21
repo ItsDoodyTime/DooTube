@@ -8,7 +8,7 @@ Free (Personal-Use) YouTube Video &amp; Audio downloader for offline use. Do not
 ## ⚠ WARNING ⚠
 - This tool is only meant for personal and private use!<br>
 - I originally created it to download tutorials for school to watch while offline and without access to the internet.<br>
-- There are **NO Safeguards** in place so your IP and device information is right open and accessible by YouTube and Google!<br>
+- There are **NO Safeguards** in place so your IP and device information is right open and accessible by YouTube and Google! (or not, im not entirely sure how it works... lol)<br>
 
 ⚠ Downloading YouTube videos violates YouTube’s Terms of Service. Please only use for personal backups, offline viewing of your own content, or content you have permission to download, or in my case only for personal-use.<br>
 ⚠ **Don’t redistribute stuff you don’t own - it's ILLEGAL!!** ⚠<br>
