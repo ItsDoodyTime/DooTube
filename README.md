@@ -34,7 +34,8 @@ Free (Personal-Use) YouTube Video &amp; Audio downloader for offline use. Do not
 ## 🚨 Disclaimer & Notice
 This software uses [YT-DLP](https://github.com/yt-dlp/yt-dlp) and [FFmpeg](https://ffmpeg.org) binaries.<br>
 I do not own any rights to the sections related to either software.<br>
-Their licensing and policies apply to their respective parts in my code.
+Their licensing and policies apply to their respective parts in my code.<br><br>
+On Windows this works and is tested, but I have no idea if it works on MacOS or Linux because I don't have a device that runs either of those, so there is no way/reason to test/support them. 
 
 ---
 
