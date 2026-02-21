@@ -1,4 +1,4 @@
-# DooTube
+# <img width="32" height="32" alt="DooTube" src="https://github.com/user-attachments/assets/34a84c05-4cdb-4466-a20f-69a702604c2f" /> DooTube
 Free (Personal-Use) YouTube Video &amp; Audio downloader for offline use. Do not use for using content you don't own, it's very illegal!
 
 <img width="1280" height="640" alt="DooTubeBanner-Free-YouTube-Video-Downloader" src="https://github.com/user-attachments/assets/87b5a804-6371-456c-b4cb-c14aa65a8d25" />
