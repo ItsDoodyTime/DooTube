@@ -203,7 +203,6 @@ root.geometry("600x520")
 root.configure(bg="#1e1e1e")
 
 def get_resource_path(relative_path):
-    """Return absolute path, works for PyInstaller and normal run"""
     if hasattr(sys, "_MEIPASS"):
         return os.path.join(sys._MEIPASS, relative_path)
     return os.path.join(APP_DIR, relative_path)
