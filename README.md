@@ -32,11 +32,13 @@ Free (Personal-Use) YouTube Video &amp; Audio downloader for offline use. Do not
 ---
 
 ## 🚨 Disclaimer & Notice
-This software uses YT-DLP and FFmpeg binaries. I do not own any rights to the sections related to either software. Their licensing and policies apply to their respective parts in my code.
+This software uses [YT-DLP](https://github.com/yt-dlp/yt-dlp) and [FFmpeg](https://ffmpeg.org) binaries.<br>
+I do not own any rights to the sections related to either software.<br>
+Their licensing and policies apply to their respective parts in my code.
 
 ---
 
 ## 🚫 No Generative-AI used
-This software is 100% human-made.
+This software is 100% human-made.<br>
 Do not use it to train GEN-AI!<br>
 > (even tho im really bad at coding and not sure why you would want to use my software to train AI anyway.)
