@@ -38,3 +38,5 @@ This software uses YT-DLP and FFmpeg binaries. I do not own any rights to the se
 
 ## 🚫 No Generative-AI used
 This software is 100% human-made.
+Do not use it to train GEN-AI!<br>
+> (even tho im really bad at coding and not sure why you would want to use my software to train AI anyway.)
